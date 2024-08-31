@@ -2,9 +2,6 @@
 - 👀 I’m interested in Machine learning 
 - 🌱 I’m currently learning Machine Language
 - 💞️ I’m looking to collaborate on projects ralated to Computer
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 FatehSinghRajput/FatehSinghRajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
